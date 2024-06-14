@@ -1,0 +1,14 @@
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\obj\Debug\net8.0\edu.nrojlla.examenFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\obj\Debug\net8.0\edu.nrojlla.examenFinal.AssemblyInfoInputs.cache
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\obj\Debug\net8.0\edu.nrojlla.examenFinal.AssemblyInfo.cs
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\obj\Debug\net8.0\edu.nrojlla.examenFinal.csproj.CoreCompileInputs.cache
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\bin\Debug\net8.0\edu.nrojlla.examenFinal.exe
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\bin\Debug\net8.0\edu.nrojlla.examenFinal.deps.json
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\bin\Debug\net8.0\edu.nrojlla.examenFinal.runtimeconfig.json
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\bin\Debug\net8.0\edu.nrojlla.examenFinal.dll
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\bin\Debug\net8.0\edu.nrojlla.examenFinal.pdb
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\obj\Debug\net8.0\edu.nrojlla.examenFinal.dll
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\obj\Debug\net8.0\refint\edu.nrojlla.examenFinal.dll
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\obj\Debug\net8.0\edu.nrojlla.examenFinal.pdb
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\obj\Debug\net8.0\edu.nrojlla.examenFinal.genruntimeconfig.cache
+C:\Users\csi23-nrojlla\source\repos\edu.nrojlla.examenFinal\obj\Debug\net8.0\ref\edu.nrojlla.examenFinal.dll

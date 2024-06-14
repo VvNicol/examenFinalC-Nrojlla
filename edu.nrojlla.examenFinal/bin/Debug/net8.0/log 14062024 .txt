@@ -1,0 +1,23 @@
+14/06/2024 09:24:38 - Menu Inicial, opcion : 2 Alta nuevo propietario
+14/06/2024 09:24:45 - Menu Inicial, opcion : 0 Cerrado
+14/06/2024 09:26:08 - Menu Inicial, opcion : 2 Alta nuevo propietario
+14/06/2024 09:27:54 - Menu Inicial, opcion : 2 Alta nuevo propietario
+14/06/2024 09:53:35 - Menu Inicial, opcion : 2 Alta nuevo propietario
+14/06/2024 09:53:55 - Menu Inicial, opcion : 0 Cerrado
+14/06/2024 09:57:47 - Menu Inicial, opcion : 2 Alta nuevo propietario
+14/06/2024 10:00:17 - Menu Inicial, opcion : 2 Alta nuevo propietario
+14/06/2024 10:03:00 - Menu Inicial, opcion : 1 Numero de historicos
+14/06/2024 10:03:42 - Menu Inicial, opcion : 1 Numero de historicos
+14/06/2024 10:04:27 - Menu Inicial, opcion : 1 Numero de historicos
+14/06/2024 10:04:32 - Menu Inicial, opcion : 1 Numero de historicos
+14/06/2024 10:05:08 - Menu Inicial, opcion : 1 Numero de historicos
+14/06/2024 10:05:09 - Menu Inicial, opcion : 0 Cerrado
+14/06/2024 10:05:24 - Menu Inicial, opcion : 1 Numero de historicos
+14/06/2024 10:05:27 - Menu Inicial, opcion : 0 Cerrado
+14/06/2024 10:05:46 - Menu Inicial, opcion : 1 Numero de historicos
+14/06/2024 10:05:48 - Menu Inicial, opcion : 2 Alta nuevo propietario
+14/06/2024 10:05:56 - Menu Inicial, opcion : 2 Alta nuevo propietario
+14/06/2024 10:06:09 - Menu Inicial, opcion : 0 Cerrado
+14/06/2024 10:06:43 - Menu Inicial, opcion : 1 Numero de historicos
+14/06/2024 10:06:45 - Menu Inicial, opcion : 2 Alta nuevo propietario
+14/06/2024 10:06:51 - Menu Inicial, opcion : 0 Cerrado
